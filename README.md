@@ -1,4 +1,4 @@
-# AWS FinOps — Cost Optimisation ($180K/year Saved)
+# AWS FinOps — Cost Optimisation 
 
 > **Real-world project** — mirrors the FinOps initiative led at Mercedes-Benz Financial Services USA. Achieved $180K/year savings (30% AWS cost reduction) through Savings Plans, EC2 auto-scheduling, and Aurora Serverless v2 migration.
 
